@@ -1,0 +1,3 @@
+Usage:
+(load "lightningbolt.lisp")
+(summarize FILE-PATH THRESHOLD-SCORE)
