@@ -1,3 +1,5 @@
 Usage:
 (load "lightningbolt.lisp")
 (summarize FILE-PATH THRESHOLD-SCORE)
+
+Summary will be located in pwd at summary.txt
