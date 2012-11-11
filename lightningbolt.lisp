@@ -1,9 +1,5 @@
 ; Common Lisp interpretation of LightningBolt.rb (github.com/mattparmett/LightningBolt)
 ; Written by Matt Parmett (mattparmett.com)
-
-; Macro for incrementation
-(defmacro += (var)
-  `(+ ,var 1))
   
 ; Function to read file as a string
 (defun read-file (path)
